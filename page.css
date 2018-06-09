@@ -1,0 +1,33 @@
+    * {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+a,img{border:0;}
+    body {
+        font: 12px/180% "Microsoft YaHei","MicroSoft YaHei", "MicroSoft YaHei";
+    }
+<!--background:url()允许添加一张图片作为页面背景-->
+#bodybj{background:url(images.jpg) no-repeat center top;}
+    #box {
+        margin: auto;
+        width: 660px;
+        font-size: 66px;
+        height: 94px;
+        line-height: 94px;
+        overflow: hidden;
+        color: #138eee;
+        text-align: center;
+        padding: 0 30px;
+        margin-top: 200px;
+    }
+    #bt {
+        margin: auto;
+        width: 200px;
+        text-align: center;
+        margin-top: 75px;
+        color: #138eee;
+        font-size: 25px;
+        line-height: 28px;
+        cursor: pointer;
+    }
